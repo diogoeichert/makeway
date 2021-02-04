@@ -28,7 +28,7 @@
 	"homepage": "https://github.com/diogoeichert/makeway#readme",
 	"devDependencies": {
 		"deltree": "^1.2.4",
-		"eslint": "^7.18.0",
+		"eslint": "^7.19.0",
 		"eslint-config-classic": "^0.1.0"
 	}
 }
