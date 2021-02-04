@@ -1,6 +1,6 @@
 {
 	"name": "makeway",
-	"version": "1.1.5",
+	"version": "1.1.6",
 	"description": "Recursively create a directory in filesystem",
 	"main": "index.js",
 	"scripts": {
