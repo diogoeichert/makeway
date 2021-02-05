@@ -25,6 +25,7 @@
 	"bugs": {
 		"url": "https://github.com/diogoeichert/makeway/issues"
 	},
+	"funding": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=makeway&currency_code=EUR",
 	"homepage": "https://github.com/diogoeichert/makeway#readme",
 	"devDependencies": {
 		"deltree": "^1.2.4",
